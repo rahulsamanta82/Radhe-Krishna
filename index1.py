@@ -5,7 +5,7 @@ wn.setup(768,768)
 wn.bgcolor("black")
 
 b=turtle.Turtle()
-b.color('yellow')
+b.color('red')
 b.up()
 b.speed(0)
 
